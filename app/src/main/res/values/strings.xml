@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Activity Life Cycle</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="open_another_activity">Open Another Activity</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
 </resources>
